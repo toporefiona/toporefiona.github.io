@@ -18,9 +18,13 @@ email: 'toporefiona@gmail.com'
 description: "Architectural Engineer. Structural analysis, computational design and energy systems. London, UK."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://toporefiona.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'jamigibbs'
-github_username: 'toporefiona'
-medium_username: 'blog.jamigibbs.com'
+social:
+  - name: Github
+    url: https://github.com/toporefiona
+    icon: github
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/fiona-topore-920638223/
+    icon: linkedin
 
 # Build settings
 markdown: kramdown
@@ -92,8 +96,8 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
+footer_text: 'Fiona Topore'
+admin_name: 'Fiona Topore'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
 enable_contact: false
 
