@@ -9,7 +9,7 @@ featured_image: '/img/posts/project1.jpg'
 button_icon: 'github'
 button_text: 'Visit on GitHub'
 lead_text: 'Exploring parametric form generation using Rhino and Grasshopper to produce towers, organic mesh forms, Voronoi structures and complex surface geometries.'
-project_link: '[/parametric-design.pdf](https://drive.google.com/file/d/14SbykHRg0VQXXTrMz7TCHJLmNo96gt7i/view?usp=sharing)'
+project_link: 'https://drive.google.com/file/d/14SbykHRg0VQXXTrMz7TCHJLmNo96gt7i/view?usp=sharing'
 button_icon: 'file'
 button_text: 'View Project'
 ---
