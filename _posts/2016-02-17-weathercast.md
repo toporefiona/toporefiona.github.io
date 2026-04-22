@@ -1,13 +1,20 @@
 ---
 layout: inner
 position: left
-title: 'Weathercast'
-date: 2016-02-20 15:56:00
-categories: development
-tags: JavaScript AngularJS API Sass
-featured_image: '/img/posts/02_weathercast-1130x864-2x.png'
+title: 'Parametric and Computational Design'
+date: 2024-06-01 00:00:00
+categories: computational-design
+tags: Rhino Grasshopper Parametric BIM
+featured_image: '/img/posts/project1.jpg'
 project_link: 'http://github.com/jamigibbs/weathercast'
 button_icon: 'github'
-button_text: 'Visit Project'
-lead_text: 'A simple weather forecast app for your favorite city.'
+button_text: 'Visit on GitHub'
+lead_text: 'Exploring parametric form generation using Rhino and Grasshopper to produce towers, organic mesh forms, Voronoi structures and complex surface geometries.'
 ---
+This project explored parametric and computational design techniques 
+using Rhino 8 and Grasshopper. Working with algorithmic form generation, 
+I produced a range of geometric outputs including towers, organic mesh 
+forms, Voronoi structures and complex surface geometries. The work 
+developed my understanding of the intersection between geometry, logic 
+and design intent, and introduced me to scripting workflows within a 
+parametric environment.
