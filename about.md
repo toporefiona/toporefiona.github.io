@@ -1,30 +1,22 @@
 ---
-layout: default
-title: About
+layout: inner
+title: 'About Me'
+lead_text: 'MEng Architectural Engineering graduate based in London. Structural analysis, computational design, BIM coordination and energy systems optimisation.'
 permalink: /about/
 ---
 
-<div style="padding: 80px 20px 40px 20px; max-width: 750px; margin: 0 auto;">
+I am a recent MEng Architectural Engineering graduate from Cardiff University with a focus on structural analysis, computational design and data-driven building performance. My work spans structural detailing, parametric design using Rhino and Grasshopper, BIM coordination across multidisciplinary teams, and energy systems optimisation through my thesis on multi-agent systems for industrial energy consumption.
 
-<h2>About Me</h2>
+I am currently developing Python and data analysis skills, working on energy projects that connect my engineering background with data science. My target is to work at the intersection of engineering and data, particularly in energy systems, digital construction and building performance.
 
-<p>I am a recent MEng Architectural Engineering graduate from Cardiff University with a focus on structural analysis, computational design and data-driven building performance. My work spans structural detailing, parametric design using Rhino and Grasshopper, BIM coordination across multidisciplinary teams, and energy systems optimisation through my thesis on multi-agent systems for industrial energy consumption.</p>
+I hold the UK Graduate visa until October 2027 and am based in London, available immediately.
 
-<p>I am currently developing Python and data analysis skills, working on energy projects that connect my engineering background with data science. My target is to work at the intersection of engineering and data, particularly in energy systems, digital construction and building performance.</p>
+**Skills:** Revit, AutoCAD, Rhino, Grasshopper, LUSAS, MATLAB, Python (developing), SQL (developing)
 
-<p>I hold the UK Graduate visa until October 2027 and am based in London, available immediately.</p>
+**Education:** MEng Architectural Engineering, Cardiff University, 2:1, 2025
 
-<hr>
+**Contact:** [toporefiona@gmail.com](mailto:toporefiona@gmail.com)
 
-<h3>Skills</h3>
-<p>Revit, AutoCAD, Rhino, Grasshopper, LUSAS, MATLAB, Python (developing), SQL (developing)</p>
-
-<h3>Education</h3>
-<p>MEng Architectural Engineering, Cardiff University, 2:1, 2025</p>
-
-<h3>Contact</h3>
-<p><a href="mailto:toporefiona@gmail.com">toporefiona@gmail.com</a></p>
-<p><a href="https://www.linkedin.com/in/fiona-topore-920638223/">LinkedIn</a></p>
-<p><a href="https://github.com/toporefiona">GitHub</a></p>
+**LinkedIn:** [linkedin.com/in/fiona-topore](https://www.linkedin.com/in/fiona-topore-920638223/)>
 
 </div>
