@@ -20,17 +20,8 @@ building performance.
 I hold the UK Graduate visa until October 2027 and am based in 
 London, available immediately.
 
-**Skills:** Revit, AutoCAD, Rhino, Grasshopper, LUSAS, MATLAB, 
-Python (developing), SQL (developing)
+Skills: Revit, AutoCAD, Rhino, Grasshopper, LUSAS, MATLAB, Python (developing), SQL (developing)
 
-**Education:** MEng Architectural Engineering, Cardiff University, 
-2:1, 2025
+Education: MEng Architectural Engineering, Cardiff University, 2:1, 2025
 
-**Contact:** toporefiona@gmail.com
-
-#### Phantom Navigation menu
-enable_nav: true
-nav_item:
-  - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'About' }
-{% endhighlight %}
+Contact: toporefiona@gmail.com
