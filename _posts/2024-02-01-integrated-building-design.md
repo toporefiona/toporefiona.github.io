@@ -5,7 +5,7 @@ title: 'Integrated BIM Healthcare Facility'
 date: 2024-02-01 00:00:00
 categories: bim
 tags: Revit BIM MEP Coordination Healthcare
-featured_image: '/img/posts/project2.jpg'
+featured_image: '/img/posts/project4.jpg'
 lead_text: 'Led the full BIM-coordinated technical design of a sustainable healthcare facility, coordinating MEP, structural and architectural systems across all RIBA stages.'
 ---
 
