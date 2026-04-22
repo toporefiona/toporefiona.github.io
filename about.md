@@ -1,5 +1,6 @@
 ---
 layout: inner
+position: right
 title: 'About Me'
 lead_text: 'MEng Architectural Engineering graduate based in London. Structural analysis, computational design, BIM coordination and energy systems optimisation.'
 permalink: /about/
@@ -19,4 +20,4 @@ I hold the UK Graduate visa until October 2027 and am based in London, available
 
 **LinkedIn:** [linkedin.com/in/fiona-topore](https://www.linkedin.com/in/fiona-topore-920638223/)>
 
-</div>
+
