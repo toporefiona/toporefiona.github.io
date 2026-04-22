@@ -6,7 +6,6 @@ date: 2024-06-01 00:00:00
 categories: computational-design
 tags: Rhino Grasshopper Parametric BIM
 featured_image: '/img/posts/project1.jpg'
-project_link: 'http://github.com/jamigibbs/weathercast'
 button_icon: 'github'
 button_text: 'Visit on GitHub'
 lead_text: 'Exploring parametric form generation using Rhino and Grasshopper to produce towers, organic mesh forms, Voronoi structures and complex surface geometries.'
