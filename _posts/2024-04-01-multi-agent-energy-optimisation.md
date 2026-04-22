@@ -7,6 +7,9 @@ categories: data-engineering
 tags: MATLAB Energy Optimisation Multi-Agent Systems Data
 featured_image: '/img/posts/project2.jpg'
 lead_text: 'MEng thesis developing a MATLAB-based multi-agent system to optimise industrial energy consumption through load-shifting and agent negotiation.'
+project_link: '/energy-optimisation.pdf'
+button_icon: 'file'
+button_text: 'View Project'
 ---
 
 My MEng thesis developed a MATLAB-based multi-agent system to model 
