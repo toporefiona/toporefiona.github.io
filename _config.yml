@@ -98,12 +98,11 @@ pagination:
 footer_text: 'Fiona Topore'
 admin_name: 'Fiona Topore'
 google_analytics: "" # Update with your own tracking ID
-enable_contact: true
+enable_contact: false
 
 #### Phantom Navigation menu
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
-  - { url: '/#work', text: 'Work' }
-  - { url: '/contact', text: 'Contact' }
+  - { url: 'mailto:toporefiona@gmail.com', text: 'Contact' }
