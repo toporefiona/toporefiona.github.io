@@ -8,7 +8,7 @@ tags: Revit BIM MEP Coordination Healthcare
 featured_image: '/img/posts/project4.jpg'
 lead_text: 'Led the full BIM-coordinated technical design of a sustainable healthcare facility, coordinating MEP, structural and architectural systems across all RIBA stages.'
 project_link: '/bim-healthcare.pdf'
-button_icon: 'github'
+button_icon: 'file'
 button_text: 'View Project'
 ---
 
