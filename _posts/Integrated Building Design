@@ -1,19 +1,19 @@
 ---
 layout: inner
-position: left
-title: 'Parametric and Computational Design'
-date: 2024-06-01 00:00:00
-categories: computational-design
-tags: Rhino Grasshopper Parametric BIM
-featured_image: '/img/posts/project1.jpg'
-button_icon: 'github'
-button_text: 'Visit on GitHub'
-lead_text: 'Exploring parametric form generation using Rhino and Grasshopper to produce towers, organic mesh forms, Voronoi structures and complex surface geometries.'
+position: right
+title: 'Integrated BIM Healthcare Facility'
+date: 2024-02-01 00:00:00
+categories: bim
+tags: Revit BIM MEP Coordination Healthcare
+featured_image: '/img/posts/project2.jpg'
+lead_text: 'Led the full BIM-coordinated technical design of a sustainable healthcare facility, coordinating MEP, structural and architectural systems across all RIBA stages.'
 ---
-This project explored parametric and computational design techniques 
-using Rhino 8 and Grasshopper. Working with algorithmic form generation, 
-I produced a range of geometric outputs including towers, organic mesh 
-forms, Voronoi structures and complex surface geometries. The work 
-developed my understanding of the intersection between geometry, logic 
-and design intent, and introduced me to scripting workflows within a 
-parametric environment.
+
+This project involved leading the technical design of a sustainable 
+healthcare facility using BIM as part of my Integrated Building Design 
+module at Cardiff University. I coordinated MEP, structural and 
+architectural systems across all design stages, managing the 
+interdisciplinary dependencies that arise when teams work in parallel. 
+The project gave me the most project-like experience of my degree, 
+developing my ability to manage multidisciplinary coordination and 
+deliver to regulatory standards within a BIM environment.
