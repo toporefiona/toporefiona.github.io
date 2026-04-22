@@ -7,6 +7,9 @@ categories: bim
 tags: Revit BIM ISO19650 Seismic Infrastructure
 featured_image: '/img/posts/project3.jpg'
 lead_text: 'Developed a comprehensive digital coordination strategy for seismic resilience, structural flaw detection and lifecycle verification across a multidisciplinary infrastructure project.'
+project_link: '/bim-infrastructure.pdf'
+button_icon: 'file'
+button_text: 'View Project'
 ---
 
 This project developed a BIM coordination strategy focused on seismic 
