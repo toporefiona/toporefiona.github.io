@@ -19,19 +19,12 @@ description: "Architectural Engineer. Structural analysis, computational design 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://toporefiona.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 social:
-  - name: Twitter
-    url: https://twitter.com/...
-    icon: twitter
   - name: Github
     url: https://github.com/toporefiona
     icon: github
-  - name: Medium
-    url: https://medium.com/...
-    icon: medium
   - name: LinkedIn
-    url: https://www.linkedin.com/in/fiona-topore
+    url: https://www.linkedin.com/in/fiona-topore-920638223/
     icon: linkedin
-
 # Build settings
 markdown: kramdown
 # theme: phantom # Uncomment once published to RubyGems
