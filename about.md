@@ -1,5 +1,7 @@
 ---
 layout: inner
+featured_image: '/img/fiona.jpg'
+position: left
 position: right
 title: 'About Me'
 lead_text: 'MEng Architectural Engineering graduate based in London. Structural analysis, computational design, BIM coordination and energy systems optimisation.'
